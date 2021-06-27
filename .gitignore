@@ -50,3 +50,23 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# MSP432 files not wanted in Repo
+.ccsproject
+.cproject
+lab0.*
+lab2.*
+lab0_*
+lab2_*
+ccsObjs.opt
+.project
+org*
+objects*
+sources*
+subdir*
+.h
+startup*
+system*
+readme.txt
+makefile
+MSP*
