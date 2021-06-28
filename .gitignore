@@ -58,6 +58,8 @@ lab0.*
 lab2.*
 lab0_*
 lab2_*
+lab1_*
+lab3_*
 ccsObjs.opt
 .project
 org*
@@ -70,3 +72,4 @@ system*
 readme.txt
 makefile
 MSP*
+.launches*
