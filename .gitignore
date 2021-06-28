@@ -61,6 +61,7 @@ lab0_*
 lab2_*
 lab1_*
 lab3_*
+lab4.*
 ccsObjs.opt
 .project
 org*
@@ -75,3 +76,5 @@ makefile
 MSP*
 .launches*
 ESLab3*
+Debug*
+libraries* 
